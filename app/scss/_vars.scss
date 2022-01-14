@@ -30,6 +30,7 @@
   background-color: $accent;
   @extend %roboto-400;
   box-shadow: 0px 7px 20px 0px rgba(255, 17, 48, 0.3);
+  cursor: pointer;
 }
 
 %checkbox-hidden,
