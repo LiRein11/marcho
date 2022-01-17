@@ -1,0 +1,24 @@
+[33m100c963[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{0}: reset: moving to 100c963f59cee4aa6b2f348c9e71f505e15f57d0
+[33m7474b5b[m HEAD@{1}: commit: fix footer btn
+[33mda35022[m HEAD@{2}: commit: added contacts page
+[33m100c963[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{3}: commit: added blog-one
+[33m3d26f1f[m HEAD@{4}: commit: added blog page
+[33m190a24f[m HEAD@{5}: commit: final product
+[33m5040861[m HEAD@{6}: commit: added product page
+[33m77fc0eb[m HEAD@{7}: commit: added shop page
+[33m92d3bba[m HEAD@{8}: commit: added 404 page
+[33m9828b71[m HEAD@{9}: commit: added register page
+[33m1d2e262[m HEAD@{10}: commit: added login page
+[33m3bab0c9[m HEAD@{11}: commit: added blog
+[33m9096a8e[m HEAD@{12}: commit: added promo and partners
+[33m851a886[m HEAD@{13}: commit: added product
+[33m0467e99[m HEAD@{14}: commit: added video-fashion section
+[33mae4cb2f[m HEAD@{15}: commit: added categories section
+[33m209c602[m HEAD@{16}: commit: added top-slider section
+[33maadacf9[m HEAD@{17}: commit: fix fonts
+[33me869f15[m HEAD@{18}: commit: added footer
+[33m9149d43[m HEAD@{19}: commit: fix menu font-size
+[33m3b71aea[m HEAD@{20}: commit: added header, added fonts
+[33mf5514b1[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{21}: checkout: moving from main to dev
+[33mf5514b1[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{22}: Branch: renamed refs/heads/master to refs/heads/main
+[33mf5514b1[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{24}: commit (initial): start project
